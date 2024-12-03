@@ -8,8 +8,3 @@ Overall, we were able to propose an alternative, Baking Paper with the following
  - Higher peak Voltage compared to Nafion
  - Lower Lifespan (Which might actually benefit students who could set it up in the morning and observe a full cycle of a MFC voltage curve without having to wait for 24 hours)
  - Significantly Cheaper
-
-## Data Directory
-I have organised the data files in folders, the naming convention is as follows:
-    (String of Alphabets)(Date conducted in DD/MM).csv
-All the experiments were conducted in 2022. 
